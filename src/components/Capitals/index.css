@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.Container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Box {
+  background-color: #f8fafc;
+  padding: 30px;
+  border-radius: 10px;
+}
+.Para {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
+}
+.heading {
+  color: #323f4b;
+}
+.Question {
+  display: flex;
+  align-items: center;
+}
+.capital {
+  border: none;
+  background-color: #cbd2d9;
+  /* height: 30px; */
+  padding: 10px;
+  border-radius: 5px;
+}
